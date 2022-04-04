@@ -1,0 +1,14 @@
+.user {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 3px 2px 9px 0px rgba(232, 221, 221, 0.75);
+    -webkit-box-shadow: 3px 2px 9px 0px rgba(232, 221, 221, 0.75);
+    -moz-box-shadow: 3px 2px 9px 0px rgba(232, 221, 221, 0.75);
+    border-radius: 4px;
+}
+
+.user_info {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
