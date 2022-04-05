@@ -1,0 +1,10 @@
+.hotels_filter {
+    padding: 10px;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 5px;
+}
+
+.mt-10 {
+    margin-top: 10px !important;
+}

@@ -18,22 +18,20 @@ export default () => {
                                     <div class="main-menu f-right d-none d-lg-block">
                                         <nav>
                                             <ul id="navigation">
-                                                <li><a href="index.html">Home</a></li>
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="services.html">Service</a></li>
-                                                <li><a href="blog.html">Blog</a>
+                                                <li><a href="index.html">Acceuil</a></li>
+                                                <li><a href="blog.html">Hotels</a>
                                                     <ul class="submenu">
                                                         <li><a href="blog.html">Blog</a></li>
                                                         <li><a href="single-blog.html">Blog Details</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="#">Pages</a>
+                                                <li><a href="#">Promos</a>
                                                     <ul class="submenu">
                                                         <li><a href="rooms.html">Rooms</a></li>
                                                         <li><a href="elements.html">Element</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="contact.html">Contact</a></li>
+                                                <li><a href="index.html">Contact</a></li>
                                             </ul>
                                         </nav>
                                     </div>
@@ -41,8 +39,9 @@ export default () => {
                                 <div class="col-xl-2 col-lg-2">
 
                                     <div class="header-btn">
-                                        <a href="#" class="btn btn1 d-none d-lg-block ">Book Online</a>
+                                        <a href="/login" class="btn btn1 d-none d-lg-block ">Login</a>
                                     </div>
+
                                 </div>
 
                                 <div class="col-12">
