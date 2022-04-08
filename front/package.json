@@ -5,6 +5,7 @@
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.0",
     "antd": "^4.19.3",
+    "axios": "^0.26.1",
     "cra-template-redux": "1.0.3",
     "radium": "^0.26.2",
     "rc-banner-anim": "^2.4.5",
